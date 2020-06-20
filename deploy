@@ -2,4 +2,6 @@
 2) Validar DHCP
 3) Validar LoadBalance
 4) Validar WebServer
-5) Instalar 
+5) Baixar OVA
+6) Baixar Pull Secret
+7) OpenShift4 Client Tools
